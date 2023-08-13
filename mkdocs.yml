@@ -4,9 +4,8 @@ site_url: https://achievaim.com
 
 theme:
   name: material
-  locale: en
   logo: assets/logo.svg
-  favicon: assests/images/favicon.ico
+  favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
   palette:
