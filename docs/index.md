@@ -2,10 +2,6 @@
 
 ![type:video](./assets/achievaimpromo.mp4)
 
-
-
-
-
 | Link                                                           | Description                                           |
 | :------------------------------------------------------------- | :---------------------------------------------------- |
 | [achievaim repo](https://github.com/xyvora/achievaim)          | Codebase                                              |
