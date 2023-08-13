@@ -3,8 +3,6 @@
 ![type:video](./assets/achievaimpromo.mp4)
 
 
-[![Tests Status](https://github.com/xyvora/achievaim/workflows/Testing/badge.svg?branch=main&event=push)](https://github.com/xyvora/achievaim/actions?query=workflow%3ATesting+branch%3Amain+event%3Apush)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/xyvora/achievaim/main.svg)](https://results.pre-commit.ci/latest/github/xyvora/achievaim/main)
 
 
 
