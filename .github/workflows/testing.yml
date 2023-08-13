@@ -5,17 +5,17 @@ on:
     branches:
     - main
   pull_request:
-  jobs:
-    docs:
-      runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-          cache: "pip"
-      - name: Install Dependencies
-        run: pip install -r requirements-dev.txt
-      - name: Test Docs Build
-        run: mkdocs build --strict
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+        cache: "pip"
+    - name: Install Dependencies
+      run: pip install -r requirements-dev.txt
+    - name: Test Docs Build
+      run: mkdocs build --strict
