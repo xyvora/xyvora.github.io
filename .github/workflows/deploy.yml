@@ -14,5 +14,10 @@ jobs:
         with:
           python-version: 3.11
           cache: "pip"
-      - run: pip install -r requirements-dev.txt
-      - run: mkdocs gh-deploy --force
+          cache-dependency-path: requirements-dev.txt
+      - name: Install dependencies
+        run: |
+          pip install -U pip
+          pip install -r requirements-dev.txt
+      - name: Check build
+        run: mkdocs gh-deploy --force

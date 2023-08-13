@@ -1,0 +1,33 @@
+site_name: AchievAIm
+site_description: AchievAIm landing page
+site_url: https://achievaim.com
+
+theme:
+  name: material
+  locale: en
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: slate
+      primary: green
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: default
+      primary: green
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+  features:
+    - search.suggest
+    - search.highlight
+repo_name: xyvora/xyvora.github.io
+repo_url: https://github.com/xyvora/xyvora.github.io
+
+nav:
+  - Home: "index.md"
+
+plugins:
+  - mkdocs-video
