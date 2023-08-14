@@ -4,30 +4,40 @@ site_url: https://achievaim.com
 
 theme:
   name: material
-  locale: en
+  logo: assets/logo.svg
+  favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
   palette:
     - scheme: slate
-      primary: green
-      accent: blue
+      primary: blue
+      accent: white
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: default
-      primary: green
-      accent: blue
+      primary: blue
+      accent: white
       toggle:
-        icon: material/lightbulb
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - search.suggest
     - search.highlight
-repo_name: xyvora/xyvora.github.io
-repo_url: https://github.com/xyvora/xyvora.github.io
+repo_name: Achiev𝘼𝙄m
+repo_url: https://github.com/xyvora/achievaim
+
 
 nav:
   - Home: "index.md"
 
 plugins:
-  - mkdocs-video
+  - mkdocs-video:
+      is_video: True
+      video_autoplay: False
+      video_controls: True
+      css_style:
+        width: "100%"
+
+extra:
+  generator: false
