@@ -11,7 +11,7 @@ theme:
   palette:
     - scheme: slate
       primary: blue
-      accent: white
+      accent: black
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -30,6 +30,7 @@ repo_url: https://github.com/xyvora/achievaim
 
 nav:
   - Home: "index.md"
+  - Getting Started: "Getting Started.md"
 
 plugins:
   - mkdocs-video:
