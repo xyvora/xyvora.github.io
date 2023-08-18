@@ -34,7 +34,7 @@ See our contributing guide (<https://github.com/xyvora/achievaim/blob/main/CONTR
 
 - ENTER YOUR DETAILS: Fill in the necessary fields such as email, password, etc.
 
-- CLICK SAVE: This confirms your details and logs you into the system.
+- CLICK SIGN UP: This confirms your details and logs you into the system.
 
 ## Start Creating A Goal
 
