@@ -28,13 +28,15 @@ See our contributing guide (<https://github.com/xyvora/achievaim/blob/main/CONTR
 
 <p align="center"><img src="https://lh5.googleusercontent.com/8nfi4W55CqyvfVM9LyYN-TgJt9R-NHUJUV-FOeqq6IYrSxQ5CrtZT2S7q8tjWaaYckKmvf8mk98zvhOZ8iingg4VxnhP16NaaRtNQtUVHT1IotCY2IEzc8neRiR9UYyrFqnTU7LLYJij90xFfsrfCkk" style="box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);"></p>
 
-<p align="center"><img src="https://lh3.googleusercontent.com/wGPQOGK_0wVFsyX4bOP_rReN1bJk1ptukQycWEKZbyqKI1ACHkYYyaH76MGsN4X0A8-cONLPa7Z0rE3SUX0WIrUd7DMLnZLdEZK1IdtwoThmMrsoHZ8NQlsxfMNQvFVh61RGeDjvTZ8h1Xj5qafICOQ" style="box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);"></p>
-
-<p align="center"><img src="https://lh5.googleusercontent.com/JxFfiC1hVS4r8wo01klQKyzPzTa-ginyZBKckmRQ7b0D4X2ZJR5Ow-Bhj4WwDtMS8i68x0Ht-WFx9xK2Y1e7YJjTkzXdKKZo9d2tSZLPNlIkJQbHAEVHi0CPM02FoEVlbe5jn5q5b2xnrSNLOmRxej0" style="box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);"></p>
-
 - ENTER YOUR DETAILS: Fill in the necessary fields such as email, password, etc.
 
 - CLICK SIGN UP: This confirms your details and logs you into the system.
+
+<p align="center"><img src="https://lh5.googleusercontent.com/JxFfiC1hVS4r8wo01klQKyzPzTa-ginyZBKckmRQ7b0D4X2ZJR5Ow-Bhj4WwDtMS8i68x0Ht-WFx9xK2Y1e7YJjTkzXdKKZo9d2tSZLPNlIkJQbHAEVHi0CPM02FoEVlbe5jn5q5b2xnrSNLOmRxej0" style="box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);"></p>
+
+- AFTER SIGN-UP: You will see options to Save, Log Out and, if needed, Delete your account. You can also change your profile details and return to this account page by clicking the settings icon in the navigation bar.
+
+<p align="center"><img src="https://lh3.googleusercontent.com/wGPQOGK_0wVFsyX4bOP_rReN1bJk1ptukQycWEKZbyqKI1ACHkYYyaH76MGsN4X0A8-cONLPa7Z0rE3SUX0WIrUd7DMLnZLdEZK1IdtwoThmMrsoHZ8NQlsxfMNQvFVh61RGeDjvTZ8h1Xj5qafICOQ" style="box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);"></p>
 
 ## Start Creating A Goal
 
